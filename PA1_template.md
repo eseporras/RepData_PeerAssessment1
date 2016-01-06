@@ -3,9 +3,13 @@ title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
-    echo = TRUE
 ---
+## Basic settings
 
+
+```r
+echo = TRUE
+```
 
 ## Loading and preprocessing the data
 
